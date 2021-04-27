@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Machine Learning and R.
 - 💞️ I’m looking to collaborate on an Intership.
 - 📫 How to reach me: joel.solano59@gmail.com
-                      +52(33)10828147
+- 📞 My telephone number is: +52(33)10828147
