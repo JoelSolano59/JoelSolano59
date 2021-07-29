@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoelSolano59!
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Machine Learning and R.
-- 💞️ I’m looking to collaborate on an Intership.
+- 🌱 I’m currently learning Machine Learning.
+- 💞️ I’m looking to collaborate on an Intership and open to work.
 - 📫 How to reach me: joel.solano59@gmail.com
 - 📞 My telephone number is: +52(33)10828147
