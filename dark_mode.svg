@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
 <style>
-.keyColor {fill: #ffa657;}
-.valueColor {fill: #a5d6ff;}
+.keyColor {fill: #d83788;}
+.valueColor {fill: #05cfff;}
 .addColor {fill: #3fb950;}
 .delColor {fill: #f85149;}
-.commentColor {fill: #8b949e;}
+.commentColor {fill: #d6d40b;}
 text, tspan {white-space: pre;}
 </style>
 
