@@ -10,52 +10,52 @@ text, tspan {white-space: pre;}
 
 <rect width="970px" height="530px" fill="#161b22" rx="15"/>
 
-<text x="15" y="30" class="ascii">
-<tspan x="15" y="30">[0;32;40mS[0;1;30;40m8[0;32;40mX[0;5;30;40m8[0;5;32;40mXS[0;5;33;40m@XS.[0;1;30;47m@[0;30;42m8[0;5;33;40m;[0;1;30;40m8[0;5;33;40m@S[0;5;32;40mX[0;5;33;40m;[0;1;30;47m8[0;33;47m8[0;5;32;40mS[0;32;40mX[0;5;33;40mt.[0;1;30;40m8[0;5;33;40m8S[0;5;37;40m8[0;1;30;43m8[0;5;33;40m@[0;32;40m;[0;31;40m;[0;5;33;40m:[0;1;30;43m8[0;5;33;40m8[0;5;37;40m@[0;5;33;40m:[0;1;30;43m8[0;5;33;40m;;X:8[0m</tspan>
-<tspan x="15" y="50">[0;32;40m;[0;31;40mt[0;1;30;40mS[0;32;40m%[0;1;30;40mX[0;31;40mt[0;1;30;40m8[0;5;32;40mX[0;5;33;40mS[0;1;30;43m8[0;33;47m8[0;5;33;40m8[0;1;30;47m8[0;1;30;43mX8[0;5;33;40m;[0;5;32;40mS[0;5;33;40m@:[0;5;37;40m@8[0;5;33;40m;%%X[0;1;30;40mX8[0;1;30;42m8[0;5;30;40mX[0;5;32;40mX[0;31;40mt[0;32;40mS[0;1;30;40m8[0;1;30;43m88[0;1;30;42m8[0;5;32;40mS[0;5;37;40m8[0;1;30;43m8[0;5;32;40mX[0;5;33;40m;%[0;32;40mX[0m</tspan>
-<tspan x="15" y="70">[0;1;30;40mX[0;32;40mX[0;1;30;40m@8[0;32;40mt%%[0;1;30;40m8[0;5;33;40m8[0;1;30;43m88@@[0;5;32;40m8@[0;5;33;40mXS:S[0;5;32;40mS[0;5;33;40m%[0;5;35;40m%[0;5;33;40m%[0;5;35;40m%[0;5;30;40m8[0;5;33;40m@[0;31;40mt[0;1;30;40mX@[0;5;33;40m8S[0;32;40m;%[0;5;33;40m;[0;1;30;43mX[0;32;40m@[0;5;33;40mX[0;1;30;47m:[0;5;33;40m8[0;5;32;40mX[0;5;33;40m;[0;1;30;47m8[0;5;33;40m8[0m</tspan>
-<tspan x="15" y="90">[0;32;40m:[0;34;40m;[0;32;40m:[0;34;40mt[0;1;30;40m@[0;31;40m;[0;5;30;40m8[0;5;33;40mX[0;32;40m8[0;5;33;40m.S[0;33;42m8[0;37;43m@@[0;5;32;40m8[0;31;40m.[0;34;40m;[0;1;30;40m@[0;5;35;40m;[0;1;30;40mX[0;31;40m%[0;32;40m.[0;31;40m.X[0;5;30;40m@[0;1;30;40m8[0;34;40m;[0;31;40m;[0;34;40m:[0;5;33;40m;[0;5;37;40m8[0;5;33;40m@[0;32;40m;[0;5;33;40m X8[0;1;30;47m8[0;1;30;43m8[0;5;33;40m.;[0;37;43m8[0;5;33;40m@[0;5;32;40m8[0m</tspan>
-<tspan x="15" y="110">[0;32;40mt[0;31;40mt[0;32;40m;[0;1;30;40m8[0;1;30;42m8[0;32;40mt[0;5;33;40m%XSS[0;5;32;40m@[0;5;33;40mS[0;1;30;42m8[0;32;40mt[0;31;40m%[0;1;30;40m8[0;31;40m;[0;1;30;40mX8[0;31;40mt[0;1;30;40mX[0;5;33;40mS[0;33;47m@[0;1;37;47mt[0;1;33;47mX[0;1;30;47m8[0;5;33;40m;t8[0;31;40m8[0;5;33;40mt@%t[0;5;32;40mSX[0;1;30;43m%[0;5;33;40m@[0;1;30;43m8[0;5;33;40m;ttX[0m</tspan>
-<tspan x="15" y="130">[0;5;33;40m%S[0;1;30;40m@[0;32;40m%[0;31;40mS[0;5;30;40m8[0;32;40m%[0;1;30;40m@[0;1;30;47m8[0;1;30;43m8[0;1;30;42m8[0;5;30;40m8[0;31;40m:;[0;34;40mt[0;32;40m;[0;1;30;40mXXXX[0;5;33;40mS[0;33;47m8[0;1;33;47m@%[0;1;37;47m  [0;1;33;47mX[0;35;47m8[0;1;33;47m8[0;5;33;40m%[0;31;40m8[0;5;33;40m [0;1;30;47mX[0;1;30;43m8[0;5;33;40mS t[0;5;37;40m@[0;5;33;40mX[0;1;30;42m8[0;5;33;40m:[0;5;37;40m8[0;5;33;40mX[0m</tspan>
-<tspan x="15" y="150">[0;5;33;40mX [0;33;47m8[0;5;33;40m;:t[0;32;40m@[0;5;33;40m;[0;1;30;43m8[0;5;33;40m.8[0;32;40m:;[0;1;30;40mS[0;32;40m;[0;31;40m;[0;1;30;40m@X[0;31;40m%[0;5;31;40mS[0;5;37;40mS[0;1;33;47mS[0;1;35;47mX[0;1;33;47mS[0;5;37;47m88[0;5;37;41m8[0;33;47m@[0;1;37;47m [0;33;47m8[0;30;41m8[0;5;33;40m%[0;1;30;43m8[0;1;30;47m8[0;1;30;43m8[0;33;47m8[0;1;30;43m8[0;5;33;40m.[0;1;30;47mX[0;5;33;40m88.[0;37;43m8[0m</tspan>
-<tspan x="15" y="170">[0;32;40mt[0;5;30;40mX[0;1;30;43m8[0;1;33;47mS[0;1;30;47m@[0;5;37;43m8[0;5;33;40m8[0;32;40m;[0;1;30;47m8[0;5;33;40mt[0;32;40m%.[0;31;40m:t[0;34;40m;[0;32;40m:[0;31;40m;[0;34;40m;[0;1;30;40mX8[0;1;30;41m8[0;1;30;43m8[0;1;31;41m8[0;33;41m%[0;5;33;41m:[0;1;33;47m%[0;1;31;47m8[0;30;41mXS[0;5;31;40mXS[0;5;33;40m;tt[0;5;32;40m@[0;1;30;43m8[0;33;47m8[0;1;30;43m8[0;5;33;40m@[0;5;30;40m8[0;32;40m8[0;5;37;40m8[0;5;33;40mX[0m</tspan>
-<tspan x="15" y="190">[0;5;33;40mX[0;32;40mS[0;1;30;40m@[0;5;33;40m%[0;1;30;43m88[0;37;43m@[0;33;42m8[0;5;33;40m@[0;32;40m8[0;31;40mt[0;5;30;40m88[0;1;30;40m@[0;31;40mt[0;1;30;40mX[0;32;40m;[0;5;30;40m8[0;5;31;40mS[0;31;40m@[0;5;31;40m8[0;1;30;47m8[0;1;33;47mS[0;5;31;40mS8[0;33;47m8[0;5;33;40mt[0;30;41m8[0;5;30;40m8[0;5;31;40m8[0;1;30;40m8[0;5;30;40m@[0;5;33;40m8[0;1;30;40m8[0;1;30;43mt[0;5;33;40mtS;t:S8S[0m</tspan>
-<tspan x="15" y="210">[0;5;33;40m8X[0;5;32;40m8[0;5;30;40m8[0;5;33;40m.;[0;5;32;40m@[0;5;33;40m [0;1;30;40mX[0;34;40m;[0;32;40m;[0;31;40m:;[0;1;30;40m@@S[0;31;40mX[0;1;30;40m8[0;5;33;40mX[0;1;33;47mS[0;1;37;47m.[0;5;37;47m8[0;1;33;47mS[0;1;31;47m8[0;31;43m8[0;1;31;47m@[0;1;37;47m [0;33;47m@[0;1;37;47m [0;37;43m8[0;30;41m8[0;1;30;40m88[0;5;33;40mXt[0;33;47m8[0;5;33;40mt[0;1;30;43m8[0;33;47m8[0;5;33;40m;[0;1;30;43m8[0;5;33;40m:%[0m</tspan>
-<tspan x="15" y="230">[0;5;32;40mX[0;5;33;40mX[0;5;32;40mX[0;37;43m8@[0;1;30;43m8[0;5;33;40m8[0;5;37;40mS[0;5;33;40m8[0;32;40m.[0;34;40m..[0;32;40m.[0;31;40m;t[0;1;30;40mS[0;31;40m8[0;5;33;40m8[0;33;47m8[0;1;33;47mXS[0;5;37;47m88[0;5;33;41m [0;1;30;47m8[0;5;33;41mt[0;1;37;47m:[0;1;33;47mS[0;5;37;47m88[0;30;41mt[0;32;40m;[0;31;40m;[0;1;30;40m@[0;5;32;40m@X[0;1;30;47mS[0;33;47m8[0;5;33;40m [0;5;32;40m8[0;1;30;43m8[0;33;47m8[0;37;43m8[0m</tspan>
-<tspan x="15" y="250">[0;5;30;40m8[0;5;33;40m;@[0;5;32;40m@[0;1;30;43m888[0;1;30;47m8[0;30;42mX[0;31;40m;[0;32;40m:[0;34;40m:[0;31;40m;t[0;32;40mt[0;31;40m8[0;5;31;40mX[0;1;30;41mX8[0;5;35;41mt[0;1;31;47mX[0;1;33;47m8[0;1;37;47m [0;5;33;41mX[0;5;33;40m%%[0;5;33;41m8[0;35;47m@[0;5;37;47m8[0;5;37;43m8[0;30;41m8[0;34;40m;[0;32;40m;[0;5;33;40m8[0;1;30;40m88[0;1;30;43m8[0;1;30;47m8[0;1;30;43m8[0;5;33;40m.%[0;33;47m8[0;5;33;40mX[0m</tspan>
-<tspan x="15" y="270">[0;32;40mS[0;5;30;40m8[0;32;40mS[0;5;32;40mS[0;5;33;40m; @8t[0;32;40mS[0;31;40m%[0;34;40m;[0;32;40m;[0;31;40m;[0;1;30;40mX[0;31;40mS[0;5;31;40m@[0;1;30;43mX[0;5;33;40mS;[0;1;30;43m8[0;5;35;41m;[0;5;37;40m%[0;5;33;40m:[0;1;30;43m8[0;37;45m8[0;1;30;43m8[0;5;37;41m8[0;1;33;47mX[0;1;31;45m8[0;5;33;40mX  @[0;5;32;40m@[0;5;33;40m8[0;30;42m8[0;5;33;40mX[0;30;42m8[0;1;30;40m8[0;30;42m8[0;5;33;40m:[0;5;32;40m8[0m</tspan>
-<tspan x="15" y="290">[0;32;40m;%[0;31;40m%[0;32;40m%[0;5;32;40m@[0;1;30;43m8[0;1;30;47m8[0;1;30;42m@[0;5;33;40m@t[0;5;30;40m8[0;32;40m;[0;31;40m.[0;34;40m.[0;32;40m.:[0;31;40m8[0;5;31;40m8[0;1;30;43m8[0;1;30;45m8[0;1;30;43m8[0;5;37;40m;[0;31;43m8[0;1;30;45m8[0;5;33;41mX[0;33;47m8[0;5;37;41m8[0;5;33;40m%[0;37;43m8[0;5;33;40m%%:8[0;32;40mX[0;5;31;40mS[0;5;32;40m8[0;34;40mt[0;1;30;40m@[0;5;33;40m; ;X[0;5;32;40m@[0m</tspan>
-<tspan x="15" y="310">     H|%%k%%%j%k||,;;j;!!'|%ij}]@          </tspan>
-<tspan x="15" y="330">     &quot;djjmkL,&quot;]][,,,,wwxw;|#kjk` </tspan>
-<tspan x="15" y="350">       %;%km%%%%M%M|%%jkkii|||[            </tspan>
-<tspan x="15" y="370">        kjj%%kkkl|!||||||j|||&quot;        </tspan>
-<tspan x="15" y="390">         |jm%H@@@b%%kkmk%i|!,[             </tspan>
-<tspan x="15" y="410">         @p|j%%%%jkk|||j*'`;j[             </tspan>
-<tspan x="15" y="430">        ]@@@g|'''`'''  ` ,;j%k             </tspan>
-<tspan x="15" y="450">        @@@@@mgmp;,,,,:;jj%%k%             </tspan>
-<tspan x="15" y="470">       @@@@@@@@%%kgki!|jjjj%k%@ .          </tspan>
-<tspan x="15" y="490">. ^['' %@@@@HH%b%k{illljkjj%%%% ; `,.      </tspan>
-<tspan x="15" y="510">=[' ` . %HH%%%%%H@gkilljjj%kk%&quot;.   `'i</tspan>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">                       ..                   </tspan>
+<tspan x="15" y="50">                 .';:clodo:,.               </tspan>
+<tspan x="15" y="70">              .;oxOO0000000KXk;             </tspan>
+<tspan x="15" y="90">            .cOXNNKKNX0Odlok0KKd.           </tspan>
+<tspan x="15" y="110">           .xWWNNNNNXd:;'..,cloOd.         </tspan>
+<tspan x="15" y="130">          .xWWWWNXXXk:,'...';;,d0:         </tspan>
+<tspan x="15" y="150">         .xWWWWWWNNKkl:clc;,lxoxKo.        </tspan>
+<tspan x="15" y="170">       .cONNXXNNWNKK0dccoOxlkXK0KOc        </tspan>
+<tspan x="15" y="190">       ;KMWWNXXNNXOo;''';ddc:ccxKX0;       </tspan>
+<tspan x="15" y="210">        oWMMMWWNX0d:,...;xkdc,.;KWNo       </tspan>
+<tspan x="15" y="230">        :XMWWWNNKOkxoc::cdxdo;.:xko.       </tspan>
+<tspan x="15" y="250">        .xNWMMWWXOkkxddxkkxddl;.           </tspan>
+<tspan x="15" y="270">          ,OWMMWX0kxxxxxxxoldx;            </tspan>
+<tspan x="15" y="290">           .xNMN0Okxxxdoc;;;ol.            </tspan>
+<tspan x="15" y="310">            .kWKkkOOOkkxlc:c;.             </tspan>
+<tspan x="15" y="330">          ..'cxkxxkO0000Ox;                </tspan>
+<tspan x="15" y="350">        .','. .';:oxOOkxdc.                </tspan>
+<tspan x="15" y="370">     ......''....':llc;,','..              </tspan>
+<tspan x="15" y="390"> .....     .,;,',;:;,...  .,,'.            </tspan>
+<tspan x="15" y="410">.:,.        .''..,;:;,'....;;'.            </tspan>
+<tspan x="15" y="430">:c'.         .....;::::;'.';;;;..          </tspan>
+<tspan x="15" y="450">lc.    ..    .''.';::;,'...;:::'.          </tspan>
+<tspan x="15" y="470">o:......'.    .,,',;::;,'...;:::,.         </tspan>
+<tspan x="15" y="490">o:......'.    .,,',;::;,'...;:::,.         </tspan>
+<tspan x="15" y="510">o:.....'.   .,,',;::;,'...;:::,.           </tspan>
 </text>
 
 <text x="370" y="30" fill="#c9d1d9">
-<tspan x="370" y="30">andrew@grant</tspan>
+<tspan x="370" y="30">joel.solano59</tspan>
 <tspan x="370" y="50">——————</tspan>
-<tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10, iOS</tspan>
-<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years, 10 months, 12 days</tspan>
-<tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Rochester Institute of Technology</tspan><tspan class="commentColor"> #RIT</tspan>
-<tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Electrical and Computer Engineering Technology</tspan><tspan class="commentColor"> #CPET</tspan>
-<tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">IntelliJ IDEA 2021.2.1, VSCode 1.64.0</tspan>
-<tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Python, C++, JavaScript</tspan>
-<tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, LaTeX, YAML, Markdown</tspan>
+<tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10, Android 13</tspan>
+<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">23 years, 1 months, 17 days</tspan>
+<tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Tecnológico de Monterrey</tspan><tspan class="commentColor"> #GDL</tspan>
+<tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Sciene Degree</tspan><tspan class="commentColor"> #ITC</tspan>
+<tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.78.2, PyCharm 2021.3.3</tspan>
+<tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, C++, JavaScript</tspan>
+<tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, YAML, Markdown</tspan>
 <tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Spanish</tspan>
-<tspan x="370" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Minecraft Modding, iOS Jailbreaking</tspan>
-<tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Overclocking, Undervolting</tspan>
+<tspan x="370" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Play videogames, Listen to City Pop</tspan>
+<tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Swimming, Collect LEGO's</tspan>
 <tspan x="370" y="330" class="keyColor">Contact</tspan>:
 <tspan x="370" y="350">——————</tspan>
-<tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">andrew.grant@mail.rit.edu</tspan>
-<tspan x="370" y="390" class="keyColor">Discord</tspan>: <tspan class="valueColor">AndrewIsntCool#5829</tspan>
-<tspan x="370" y="410" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">Andrew6rant</tspan>
+<tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">joel.solano59@gmail.com</tspan>
+<tspan x="370" y="390" class="keyColor">Discord</tspan>: <tspan class="valueColor">Hieren1#4239</tspan>
+<tspan x="370" y="410" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">joelsolano59</tspan>
 <tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="370" y="470">——————</tspan>
 <tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">66</tspan> {<tspan class="keyColor">Contrib_to</tspan>: <tspan class="valueColor">100</tspan>} | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">1,672  </tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">121</tspan>
