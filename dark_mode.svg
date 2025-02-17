@@ -97,7 +97,7 @@ text, tspan {white-space: pre;}
     >joelsolano59</tspan>
 <tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="370" y="470">——————</tspan>
-<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">30</tspan> {<tspan class="keyColor">Contrib_to</tspan>: <tspan class="valueColor">100</tspan>} | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">1,672  </tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">121</tspan>
+<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">30</tspan> {<tspan class="keyColor">Contrib_to</tspan>: <tspan class="valueColor">100</tspan>} | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">1,672  </tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">36</tspan>
 <tspan x="370" y="510" class="keyColor">Lines of Code Written by Me</tspan>: <tspan class="valueColor">404,094</tspan> (<tspan class="addColor">466,976++</tspan>, <tspan class="delColor">62,882--</tspan>)
 </text>
 </svg>
