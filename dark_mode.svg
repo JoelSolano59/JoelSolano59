@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
+<?xml version="1.0" encoding="utf-8" ?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  font-family="Andale Mono,AndaleMono,Consolas,monospace"
+  width="975px"
+  height="550px"
+  font-size="16px"
+>
 <style>
 .keyColor {fill: #d83788;}
 .valueColor {fill: #05cfff;}
@@ -8,7 +15,7 @@
 text, tspan {white-space: pre;}
 </style>
 
-<rect width="970px" height="530px" fill="#030d22" rx="15"/>
+<rect width="970px" height="530px" fill="#030d22" rx="15" />
 
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
 <tspan x="15" y="30">                       ..                   </tspan>
@@ -41,25 +48,56 @@ text, tspan {white-space: pre;}
 <text x="370" y="30" fill="#c9d1d9">
 <tspan x="370" y="30">joel.solano59</tspan>
 <tspan x="370" y="50">——————</tspan>
-<tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10, Android 13</tspan>
-<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">23 years, 1 months, 17 days</tspan>
-<tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Tecnológico de Monterrey</tspan><tspan class="commentColor"> #GDL</tspan>
-<tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Sciene Degree</tspan><tspan class="commentColor"> #ITC</tspan>
-<tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.78.2, PyCharm 2021.3.3</tspan>
-<tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, C++, JavaScript</tspan>
-<tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, YAML, Markdown</tspan>
-<tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Spanish</tspan>
-<tspan x="370" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Play videogames, Listen to City Pop</tspan>
-<tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Swimming, Collect LEGO's</tspan>
+<tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan
+      class="valueColor"
+    >Windows 10, Pop!_OS, Android 14</tspan>
+<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan
+      class="valueColor"
+    >25 years</tspan>
+<tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan
+      class="valueColor"
+    >Tecnológico de Monterrey</tspan><tspan class="commentColor"> #GDL</tspan>
+<tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan
+      class="valueColor"
+    >Computer Science Degree</tspan><tspan class="commentColor"> #ITC</tspan>
+<tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan
+      class="valueColor"
+    >VSCode 1.97.2, PyCharm 2024.3.3</tspan>
+<tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan
+      class="keyColor"
+    >Programming</tspan>: <tspan
+      class="valueColor"
+    >Python, C++, JavaScript, Java</tspan>
+<tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan
+      class="keyColor"
+    >Computer</tspan>: <tspan
+      class="valueColor"
+    >HTML, CSS, JSON, XML, React, AWS</tspan>
+<tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan
+      class="keyColor"
+    >Real</tspan>: <tspan class="valueColor">English, Spanish</tspan>
+<tspan x="370" y="270" class="keyColor">Hobbies</tspan>.<tspan
+      class="keyColor"
+    >Software</tspan>: <tspan class="valueColor">Videogames, Development</tspan>
+<tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan
+      class="keyColor"
+    >Hardware</tspan>: <tspan
+      class="valueColor"
+    >Dancing, Table Top Games</tspan>
 <tspan x="370" y="330" class="keyColor">Contact</tspan>:
 <tspan x="370" y="350">——————</tspan>
-<tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">joel.solano59@gmail.com</tspan>
-<tspan x="370" y="390" class="keyColor">Discord</tspan>: <tspan class="valueColor">Hieren1#4239</tspan>
-<tspan x="370" y="410" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">joelsolano59</tspan>
+<tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan
+      class="valueColor"
+    >joel.solano59@gmail.com</tspan>
+<tspan x="370" y="390" class="keyColor">Discord</tspan>: <tspan
+      class="valueColor"
+    >Hieren1</tspan>
+<tspan x="370" y="410" class="keyColor">LinkedIn</tspan>: <tspan
+      class="valueColor"
+    >joelsolano59</tspan>
 <tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
-<tspan x="370" y="470">——————</tspan>
-<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">66</tspan> {<tspan class="keyColor">Contrib_to</tspan>: <tspan class="valueColor">100</tspan>} | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">1,672  </tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">121</tspan>
-<tspan x="370" y="510" class="keyColor">Lines of Code Written by Me</tspan>: <tspan class="valueColor">404,094</tspan> (<tspan class="addColor">466,976++</tspan>, <tspan class="delColor">62,882--</tspan>)
 </text>
-
 </svg>
+<!-- <tspan x="370" y="470">——————</tspan> -->
+<!-- <tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">66</tspan> {<tspan class="keyColor">Contrib_to</tspan>: <tspan class="valueColor">100</tspan>} | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">1,672  </tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">121</tspan> -->
+<!-- <tspan x="370" y="510" class="keyColor">Lines of Code Written by Me</tspan>: <tspan class="valueColor">404,094</tspan> (<tspan class="addColor">466,976++</tspan>, <tspan class="delColor">62,882--</tspan>) -->
